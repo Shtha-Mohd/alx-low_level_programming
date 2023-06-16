@@ -3,8 +3,9 @@
 #include <stdio.h>
 
 /** 
- * main see if random number id positive, negative or zero.
- *return :always 0(success)
+ * main - see if random number is positive, negative or zero.
+ *
+ * Return: Always 0(Success)
  */
 
 int main(void)
