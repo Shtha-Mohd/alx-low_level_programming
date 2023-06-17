@@ -10,7 +10,7 @@ int main(void)
 	int i=48;
 	int l=48;
 
-	for (i < 57; l < 58; l++)
+	for (l < 58; l++)
 	{
 		if (i < l)
 		{
@@ -29,4 +29,4 @@ int main(void)
 		}
 	}
 	return (0);
-}
+
