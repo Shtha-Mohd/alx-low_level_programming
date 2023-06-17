@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	int i=48;
+	int i = 48;
 	int l;
 
 	for (l = 48; l < 58; l++)
@@ -22,11 +22,12 @@ int main(void)
 				putchar(32);
 			}
 		}
-		if (l==57 && i<57)
+		if (l == 57 && i < 57)
 		{
 			i++;
-			l =48;
+			l = 48;
 		}
 	}
+	putchar('\n');
 	return (0);
 }
